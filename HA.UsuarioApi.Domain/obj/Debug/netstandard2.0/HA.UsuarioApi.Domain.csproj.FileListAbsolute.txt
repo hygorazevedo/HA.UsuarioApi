@@ -1,0 +1,9 @@
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\bin\Debug\netstandard2.0\HA.UsuarioApi.Domain.deps.json
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\bin\Debug\netstandard2.0\HA.UsuarioApi.Domain.dll
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\bin\Debug\netstandard2.0\HA.UsuarioApi.Domain.pdb
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\obj\Debug\netstandard2.0\HA.UsuarioApi.Domain.csprojAssemblyReference.cache
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\obj\Debug\netstandard2.0\HA.UsuarioApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\obj\Debug\netstandard2.0\HA.UsuarioApi.Domain.AssemblyInfoInputs.cache
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\obj\Debug\netstandard2.0\HA.UsuarioApi.Domain.AssemblyInfo.cs
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\obj\Debug\netstandard2.0\HA.UsuarioApi.Domain.dll
+C:\Users\bsi90691\source\repos\HA.UsuarioApi\HA.UsuarioApi.Domain\obj\Debug\netstandard2.0\HA.UsuarioApi.Domain.pdb
